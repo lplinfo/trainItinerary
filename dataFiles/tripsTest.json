@@ -1,0 +1,11 @@
+[
+  {
+    "trip": "P243B976",
+    "origin": "BSB",
+    "destiny": "VCP",
+    "departureDate": "2021-02-10",
+    "departure": "06:40",
+    "arrival": "19:40",
+    "value": 948.46
+  }  
+]
